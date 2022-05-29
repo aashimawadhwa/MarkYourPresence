@@ -1,15 +1,23 @@
-# MarkYourPresence
+# MarkYourPresence- 
+### Complete Web App for taking online attendance using AI based Facial Recognition. Designed from scratch using React + Tailwind with Python backend. OpenCV used for Face detection and recognition.
 
-#### Demo video link : 
+
+#### Demo video link : to be added
 #### Hosted web application : 
  
-
-
-
-### 📌 Table of Contents
-
 <a id="features"></a>
 ## 🚀 Features
+
+- User(Teacher) signs in.
+- Teacher creates a new course by giving information, and dataset.
+- Dataset includes a folder having pictures of students enrolled in the course, shot by their webcams. 
+- Upon creation, the data is sent to the backend and model is trained for the given course.
+- To take attendence, the teacher starts a new session of the course. 
+- A unique code is generated which teacher sends out to the students.
+- Students navigate to `/markattendence` page and paste the code. 
+- Students are then shown a page where they allow webcam, capture a shot and mark attendence. Using the trained model, their attendance is marked.
+- Teacher can download attendence reports of a course in form of csv from the sessions page. 
+
 
 <a id="tech-stack"></a>
 ## 💻 Tech Stack Used/ Dependencies
@@ -93,11 +101,7 @@ The Agile methodology is a way to manage a project by breaking it up into severa
 
 
 
-<a id="hosting"></a>
-## ✅ Hosting 
 
-- Frontend is hosted at 
-- Backend server is hosted at 
 
 <a id="challenges"></a>
 
