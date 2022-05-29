@@ -2,9 +2,7 @@
 
 #### Demo video link : 
 #### Hosted web application : 
-Test email: ` `
-
-Test password: ` `
+ 
 
 
 
