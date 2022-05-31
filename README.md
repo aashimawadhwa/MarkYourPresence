@@ -2,9 +2,7 @@
 ### Complete Web App for taking online attendance using AI based Facial Recognition. Designed from scratch using React + Tailwind with Python backend. OpenCV used for Face detection and recognition.
 
 
-#### Demo video link : to be added
-#### Hosted web application : 
- 
+
 <a id="features"></a>
 ## 🚀 Features
 
@@ -18,6 +16,9 @@
 - Students are then shown a page where they allow webcam, capture a shot and mark attendence. Using the trained model, their attendance is marked.
 - Teacher can download attendence reports of a course in form of csv from the sessions page. 
 
+![Screenshot from 2022-05-31 23-46-39](https://user-images.githubusercontent.com/73706697/171257563-f035ef3b-ddf3-4d09-ba79-26b52152d358.png)
+![Screenshot from 2022-05-31 23-47-07](https://user-images.githubusercontent.com/73706697/171257575-2241c08f-895b-49cd-a3c6-0aab679e5264.png)
+![Screenshot from 2022-05-31 23-47-30](https://user-images.githubusercontent.com/73706697/171257584-014db577-a9ce-4b23-82d2-cd8da2a1bb73.png)
 
 <a id="tech-stack"></a>
 ## 💻 Tech Stack Used/ Dependencies
@@ -120,7 +121,7 @@ The Agile methodology is a way to manage a project by breaking it up into severa
 - learned about  how a low-complex, embedded friendly CNN architecture can be used for face recognition.
 - I'm new to python and Opencv and I tried to save an image to my computer from my webcam , But when I try to open it, I find that the jpeg is empty i worked on small errors like these.
 - Figured out how attendence  can be downloaded through webapp.
-- Came across a memory-leak bug while building a socket connection from client side to server side. Couldn't get my doubt resolved even from Stack Overflow. Took me about one week to resolve it by thorough researching of the hints provided by my mentor. Saved my project from getting disqualified because this bug was a barrier in implementing the minimum requirement feature of the Engage'21 Challenge.
+- Came across a memory-leak bug while building a socket connection from client side to server side. Couldn't get my doubt resolved even from Stack Overflow. Took me about one week to resolve it by thorough researching of the hints provided by my mentor. Saved my project from getting disqualified because this bug was a barrier in implementing the minimum requirement feature of the Engage'22 Challenge.
 - Deployed a full stack app with frontend, backend and database for the first time. Struggled through it but documentations and tutorials came to the rescue as always. 
 - Learnt about Cross-Origin Resource Sharing (CORS) and proxies.
 
@@ -142,16 +143,6 @@ The Agile methodology is a way to manage a project by breaking it up into severa
 - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 - [React Icons Documentation/Guide](https://react-icons.github.io/react-icons/)
 - [Heroku Documentation](https://devcenter.heroku.com/categories/reference)
-- [Netlify Docs](https://docs.netlify.com/)
-
-<a id="bug"></a>
-## 🐛 Bug Reporting
-Feel free to [open an issue]
-<a id="feature-request"></a>
-## ⭐ Feature Request
-- Feel free to [open an issue] on GitHub to add any additional features you feel could enhance this project.  
-- You can also discuss and provide suggestions to me on [LinkedIn]
-
 
 
 
